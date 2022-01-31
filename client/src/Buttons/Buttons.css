@@ -1,0 +1,18 @@
+.buttons {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+
+.buttons button {
+  color: #6202ee;
+  border: 2px solid #4b00bb;
+  background-color: white;
+  font-size: 28px;
+  border-radius: 50%;
+  font-weight: bold;
+  height: 100px;
+  width: 100px;
+  margin: 0 12px 10px 12px;
+  cursor: pointer;
+}

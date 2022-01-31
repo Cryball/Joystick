@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info {
+  text-align: center;
+}
+
+.info div {
+  font-size: 24px;
+}
+
+.info p {
+  font-size: 20px;
+}
